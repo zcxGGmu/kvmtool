@@ -1,4 +1,4 @@
-Native Linux KVM tool
+Native Linux KVM tool (RISC-V Virtualization Acceleration Frontend)
 =====================
 
 kvmtool is a lightweight tool for hosting KVM guests. As a pure virtualization
