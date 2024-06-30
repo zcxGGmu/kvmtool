@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "util-init.h": "c",
+        "kernel.h": "c",
+        "devices.h": "c",
+        "fdt.h": "c",
+        "libfdt.h": "c"
+    }
+}
